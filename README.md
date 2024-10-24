@@ -68,9 +68,22 @@ Copy code
 mvn spring-boot:run
 Usage
 -Visit the home page to view common articles, which are visible to all visitors.
+
 -Register and login to gain additional access depending on your assigned role.
+
 -Manage articles (publish, edit, delete) based on the roles and permissions assigned.
+
 -Enroll in courses and access course-specific content.
+
 -Create and manage events as an administrator.
+
 -Review articles and moderate comments as a moderator.
+
 -Recover your password via email if needed.
+
+Contributing
+If you'd like to contribute to this project, feel free to create a pull request or submit an issue.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+

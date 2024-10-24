@@ -81,9 +81,9 @@ Usage
 
 -Recover your password via email if needed.
 
-Contributing
+Contributing:
 If you'd like to contribute to this project, feel free to create a pull request or submit an issue.
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
